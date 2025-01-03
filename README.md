@@ -4,7 +4,7 @@
 <h2> High School Student Attending Thomas A Edison </h2>
 
 - <b>Attending the Automotive Technologies course </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [For further information and what the course looks like, click here!](https://youtu.be/jAYKbUYNAq8?si=NOl6c_On4GSvqWke)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
