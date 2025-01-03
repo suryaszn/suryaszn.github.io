@@ -1,5 +1,5 @@
 # suryaszn.github.io
-<h1>Hi, I'm Surya! <br/><a > Student </a>, <a >Leader </a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Surya! <br/><a > Student </a>, <a >Leader </a>, <a >Visionary</a></h1>
 
 <h2> High School Student Attending Thomas A Edison </h2>
 
