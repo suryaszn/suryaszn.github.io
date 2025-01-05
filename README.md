@@ -5,9 +5,9 @@
 
 - <b>Attending the Automotive Technologies course </b>
   - [For further information and what the course looks like, click here!](https://youtu.be/jAYKbUYNAq8?si=NOl6c_On4GSvqWke)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+- <b>My Resume!</b>
+  - [Image Analysis Middleware](https://docs.google.com/document/d/1LKCq_U65MT8wuakFspH6hGdK8kI1CUkedpfJM8nf8cI/edit?usp=sharing) <b><i>(Potentially NSFW)</b></i>
+- <b>P</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
