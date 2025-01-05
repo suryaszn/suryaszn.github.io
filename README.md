@@ -6,7 +6,7 @@
 - <b>Attending the Automotive Technologies course </b>
   - [For further information and what the course looks like, click here!](https://youtu.be/jAYKbUYNAq8?si=NOl6c_On4GSvqWke)
 - <b>My Resume!</b>
-  - [Click here to view my resume!](https://docs.google.com/document/d/1LKCq_U65MT8wuakFspH6hGdK8kI1CUkedpfJM8nf8cI/edit?usp=sharing) <b><i>(Potentially NSFW)</b></i>
+  - [Click here to view my resume!](https://docs.google.com/document/d/1LKCq_U65MT8wuakFspH6hGdK8kI1CUkedpfJM8nf8cI/edit?usp=sharing)
 
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
