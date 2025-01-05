@@ -19,11 +19,11 @@
 <h2>Contact Me!</h2>
 
 [<img align="left" alt="Surya's Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail.png" />][gmail]
-[<img align="left" alt="Surya's Phone" width="22px" src="https://img.icons8.com/color/48/000000/phone.png" />][phone]
+[<img align="left" alt="Surya's X Profile" width="22px" src="https://img.icons8.com/ios-filled/50/000000/twitter-circled.png" />][x]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [gmail]: mailto:suryadoebri@gmail.com
-[phone]: tel:+3476829870
+[x]: https://x.com/suryaszn
 [linkedin]: https://linkedin.com/in/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
