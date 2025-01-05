@@ -28,6 +28,6 @@
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
-
 <a href="mailto:suryadoebri@gmail.com" target="_blank" title="Send me an email">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="width:40px; height:40px;">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="width:40px; height:40px;">
+</a> 
