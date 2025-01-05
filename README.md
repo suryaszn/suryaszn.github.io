@@ -6,12 +6,8 @@
 - <b>Attending the Automotive Technologies course </b>
   - [For further information and what the course looks like, click here!](https://youtu.be/jAYKbUYNAq8?si=NOl6c_On4GSvqWke)
 - <b>My Resume!</b>
-  - [Image Analysis Middleware](https://docs.google.com/document/d/1LKCq_U65MT8wuakFspH6hGdK8kI1CUkedpfJM8nf8cI/edit?usp=sharing) <b><i>(Potentially NSFW)</b></i>
-- <b>P</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Click here to view my resume!](https://docs.google.com/document/d/1LKCq_U65MT8wuakFspH6hGdK8kI1CUkedpfJM8nf8cI/edit?usp=sharing) <b><i>(Potentially NSFW)</b></i>
+
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
