@@ -12,7 +12,6 @@
 <h2>Contact Me!</h2>
 
 [<img align="left" alt="Surya's Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail.png" />][gmail]
-[<img align="left" alt="Surya's X Profile" width="22px" src="https://img.icons8.com/ios-filled/50/000000/twitter-circled.png" />][x]
 
 [gmail]: mailto:suryadoebri@gmail.com
-[x]: https://x.com/suryaszn
+
